@@ -1,10 +1,10 @@
 # Machine-Learning-Final-Project
 
 This is final project work submition for Machine Learning course CMPE 257
-Course code : CMPE-257
-Group name : Invincibles
-Name: Srilalitha Veerubhotla
-Student ID: 014530256
+Course code : CMPE-257 <br>
+Group name : Invincibles <br>
+Name: Srilalitha Veerubhotla <br>
+Student ID: 014530256 <br>
 
 ## DATASETS 
 [Liar-Liar dataset](https://drive.google.com/open?id=1y3yYF5HHPhH7SyaPwPU9H5HApJzevsFK)<br>
