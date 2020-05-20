@@ -21,3 +21,15 @@ Student ID: 014530256 <br>
 ### 6.Ranking and Importance
 ### 7.Merge all features and individual contributions
 ### 8.Form Polynomial Equation
+
+## class imbalancing improvements
+![alt text](https://github.com/srilalithaveerubhotla/Machine-Learning-Final-Project/blob/master/pictures/Screen%20Shot%202020-05-19%20at%206.18.40%20PM.png?raw=true)
+
+## RESULTS WITHOUT DISTILLATION
+![alt text](https://github.com/srilalithaveerubhotla/Machine-Learning-Final-Project/blob/master/pictures/Screen%20Shot%202020-05-19%20at%206.19.56%20PM.png?raw=true)
+
+## RESULTS ON LIAR LIAR DATASET
+![alt text](https://github.com/srilalithaveerubhotla/Machine-Learning-Final-Project/blob/master/pictures/Screen%20Shot%202020-05-19%20at%206.19.38%20PM.png?raw=true)
+
+## RESULTS WITH COMPARING LIAR LIAR AND FAKE NEWS WITH AND WITHOUT DISTILLATIONS
+![alt text](https://github.com/srilalithaveerubhotla/Machine-Learning-Final-Project/blob/master/pictures/Screen%20Shot%202020-05-19%20at%206.18.04%20PM.png?raw=true)
